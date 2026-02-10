@@ -1,0 +1,22 @@
+{
+  "name": "hidden-voyager",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^15.1.0",
+    "canvas-confetti": "^1.9.3"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "autoprefixer": "^10.4.20"
+  }
+}
